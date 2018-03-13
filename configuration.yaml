@@ -35,6 +35,7 @@ log_channel: "destalinator-log"
 ignore_channels:
   - destalinator-log
   - emergency-response
+  - random
 
 
 # Regular expression patterns for additional channels to ignore during archiving
