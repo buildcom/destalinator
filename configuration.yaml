@@ -36,6 +36,7 @@ ignore_channels:
   - destalinator-log
   - emergency-response
   - random
+  - stale-channels
 
 
 # Regular expression patterns for additional channels to ignore during archiving
