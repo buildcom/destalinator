@@ -38,6 +38,7 @@ ignore_channels:
   - random
   - stale-channels
   - general
+  - announcements
 
 
 # Regular expression patterns for additional channels to ignore during archiving
